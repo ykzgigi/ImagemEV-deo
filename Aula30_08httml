@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Mario</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="menu">
+        <section class="logo">
+            <a href > <img src="img/logo_Bill.png" alt="Chapeu"> </a>
+        </section>
+        <ul>   
+            <li> <a href="#inicio"> Início</a> </li>
+            <li> <a href="#sobre"> Sobre</a> </li>
+            <li> <a href="#contato"> Contato</a> </li>
+        </ul>
+    </nav>
+    <!-- tag de video -->
+<h1>tag de vídeo</h1>
+<video width="320" height="240" controls>
+<source src="img/c7e27b90b919775ec0ec7a66ba2bc1fd.mp4" type="video/mp4">
+</video>
+</body>
+</html>
